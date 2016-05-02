@@ -1,2 +1,2 @@
-# vickieec.github.io
-Kanye1
+# Texas Mardi Gras Entertainment
+Project inspired by Kanye
